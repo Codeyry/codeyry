@@ -1,18 +1,79 @@
-<h1 align="center">Hi, I'm Codeyry</h1><h3 align="center">Building software, experiments, and things I find interesting.</h3><br>- 🔭 Currently building my "personal web platform" (https://codeyry.vercel.app) with Next.js
+<h1 align="center">Hi 👋, I'm Abid Abdullah</h1>
+<h3 align="center">Developer • Builder • Experimenter</h3>
 
-- 🌱 Currently learning TypeScript, Next.js, and backend development
-
-- 👨‍💻 My projects are available at "codeyry.vercel.app" (https://codeyry.vercel.app)
-
-- 📝 I share some of my thoughts on my "blog" (https://codeyry.vercel.app/blogs)
-
-- 💬 Ask me about JavaScript, Telegram bots, Android apps, and Firebase
-
-<br><h3 align="left">Languages & Tools:</h3><p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=codeyry">
+    <img src="https://komarev.com/ghpvc/?username=codeyry&label=Profile%20views&color=00FFFF&style=flat-square" alt="codeyry's profile views" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+</p>
+
+## 📌 About Me
+- 🔭 Building my personal web platform with Next.js
+- 🌱 Learning TypeScript, Next.js, and backend development
+- 💬 Interested in web development, Android, automation, and Telegram bots
+
+
+## 🧠 My Focus Areas
+- Web Development
+- Android Development
+- Automation
+- Backend Development
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/codeyry">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codeyry&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="codeyry's GitHub Stats" />
+  </a>
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://codeyry.vercel.app">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+## 💬 Quote
+> “Fools admire complexity. Geniuses admire simplicity.”
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
